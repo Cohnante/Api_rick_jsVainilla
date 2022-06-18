@@ -1,0 +1,22 @@
+*{
+padding: 0; 
+}
+
+.titulo{
+  background: url(./video/titulo/logo.png) no-repeat left;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  text-decoration:underline;
+  text-decoration-color: white; 
+  -webkit-text-stroke: 0.5px white;
+  font: oblique bold 120% cursive;
+  padding: 30px;
+}
+body{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,0.8) 0%, rgba(136,136,136,0.8) 52%, rgba(255,255,255,0.8) 100%);
+
+}
+.row{
+ color: hotpink;
+}
